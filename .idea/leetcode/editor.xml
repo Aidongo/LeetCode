@@ -6,10 +6,10 @@
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P142LinkedListCycleIi .java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/P142LinkedListCycleIi .md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[142]环形链表 II.md" />
               <option name="frontendQuestionId" value="leetcode.cn142" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P142LinkedListCycleIi .java" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[142]环形链表 II.java" />
               <option name="titleSlug" value="linked-list-cycle-ii" />
             </LeetcodeEditor>
           </value>
@@ -33,6 +33,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[103]二叉树的锯齿形层序遍历.java" />
               <option name="titleSlug" value="binary-tree-zigzag-level-order-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[142]环形链表 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[142]环形链表 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn142" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[142]环形链表 II.java" />
+              <option name="titleSlug" value="linked-list-cycle-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -66,6 +77,39 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[23]合并 K 个升序链表.java" />
               <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[300]最长递增子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[300]最长递增子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn300" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[300]最长递增子序列.java" />
+              <option name="titleSlug" value="longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[415]字符串相加.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[415]字符串相加.md" />
+              <option name="frontendQuestionId" value="leetcode.cn415" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[415]字符串相加.java" />
+              <option name="titleSlug" value="add-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[42]接雨水.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/doc/content/[42]接雨水.md" />
+              <option name="frontendQuestionId" value="leetcode.cn42" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/[42]接雨水.java" />
+              <option name="titleSlug" value="trapping-rain-water" />
             </LeetcodeEditor>
           </value>
         </entry>
